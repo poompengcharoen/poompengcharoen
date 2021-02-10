@@ -9,7 +9,7 @@
 
 📝 Check out my [resume](https://github.com/poompengcharoen/poompengcharoen/blob/master/files/Poom%20-%20Resume.pdf)
 
-<img align="right" height="300" width="300" alt="Poom's profile picture." src="https://avatars.githubusercontent.com/u/20737799?s=400&u=528611ef11875063f9b2916b92b77c4d70cec22b&v=4" />
+<img align="right" height="300" width="300" alt="Poom public speaking" src="https://github.com/poompengcharoen/poompengcharoen/raw/master/images/Poom%20-%20Public%20Speaking.jpg" />
 
 ### About What I Do:
 
