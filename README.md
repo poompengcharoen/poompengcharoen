@@ -22,4 +22,4 @@
 
 - 💻 I enjoy learning new technologies, programming techniques, and graphic design trends.
 - 🍕 I'm a passionate food lover. I love experiencing new cuisines.
-- ✅ I'm an INFJ, the rarelest personality type.
+- ⭐️ I'm an INFJ-T, which is the rarelest personality type.
