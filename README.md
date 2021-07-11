@@ -9,8 +9,6 @@
 
 📝 Check out my [resume](https://github.com/poompengcharoen/poompengcharoen/blob/master/files/Poom%20-%20Resume.pdf)
 
-<img align="right" height="300" width="300" alt="Poom public speaking" src="https://github.com/poompengcharoen/poompengcharoen/raw/master/images/Poom%20-%20Public%20Speaking.jpg" />
-
 ### About What I Do:
 
 - 🛠 I’m currently working with full-stack web development using TypeScript, JavaScript, React, Next.js, Node.js, MongoDB, Express, Socket.io, etc.
