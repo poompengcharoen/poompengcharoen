@@ -26,7 +26,7 @@ April 2022 — Present
 
 ### **Full-Stack Software Developer, Ogilvy (Bangkok, Thailand)**
 
-Aug 2020 — Dec 2020
+Jan 2021 — Mar 2022
 
 - Developed and integrated an authentication and authorization feature, emailing system, and bounce-rate detection feature for NEO Corporate's e-commerce platform using PHP, Laravel, Backpack, Bootstrap, Amazon Cognito, and Amazon SES.
 - Reviewed Pruksa real estate company infrastructure consisting of Amazon S3, Amazon CloudFront, Amazon ElastiCache for Redis, Amazon Relational Database Service (RDS), and Amazon EC2.
@@ -65,16 +65,6 @@ Jan 2020 — Jul 2020
 - Created brand graphic materials such as brochures, posters, and social media posts using Adobe Illustrator and Adobe Photoshop
 - Developed 3D rendered advertising graphics using Adobe Illustrator, Adobe Dimension, and Adobe Photoshop
 - Wrote copy for advertisements.
-
-### **Product & Packaging Designer, Mary Manufacturing (Bangkok, Thailand)**
-
-Jan 2020 — Jul 2020
-
-- Designed brand logos, packaging, and graphic materials using Adobe Illustrator
-- Created product packaging for reed diffusers, scented candles, and essential oils using Adobe Illustrator
-- Developed marketing materials including brochures, posters, and social media posts
-- Produced 3D rendered advertising graphics using Adobe Illustrator, Adobe Dimension, and Adobe Photoshop
-- Wrote advertisement copy for product promotion.
 
 ### **Full-stack Software Developer, Kiluth (Bangkok, Thailand)**
 
