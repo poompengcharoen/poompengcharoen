@@ -59,7 +59,7 @@ Aug 2020 - Dec 2020
 
 ### **Product & Packaging Designer, Mary Manufacturing (Bangkok, Thailand)**
 
-Aug 2020 — Dec 2020
+Jan 2020 — Jul 2020
 
 - Designed brand logos and packaging for reed diffusers, scented candles, and essential oils using Adobe Illustrator
 - Created brand graphic materials such as brochures, posters, and social media posts using Adobe Illustrator and Adobe Photoshop
