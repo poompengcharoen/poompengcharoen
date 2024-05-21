@@ -1,4 +1,4 @@
-# Pavaruth Pengcharoen, Senior Full-stack Software Engineer
+# Pavaruth Pengcharoen, Senior Full-Stack Software Engineer
 
 ## Contact Information
 
