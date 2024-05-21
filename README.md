@@ -1,4 +1,4 @@
-# Pavaruth Pengcharoen, Senior Full-stack Software Developer
+# Pavaruth Pengcharoen, Senior Full-stack Software Engineer
 
 ## Contact Information
 
@@ -8,13 +8,30 @@
 
 ## Professional Summary:
 
-As a Senior Full-stack Software Developer, I am committed to delivering high-quality solutions to clients. I possess strong leadership, communication, and time-management abilities, and I approach my colleagues with empathy and understanding. I have a keen interest in modern web technologies, data science, and system and infrastructure design. Based in Bangkok, Thailand, I am dedicated to continuous learning and professional growth.
+- Seasoned Senior Full-stack Software Developer with a proven track record of delivering top-notch solutions to clients.
+- Demonstrates exceptional leadership, communication, and time-management skills, fostering a collaborative and empathetic work environment.
+- Possesses a keen interest in cutting-edge web technologies, data science, and system and infrastructure design.
+- Extensive experience in developing interactive software solutions, including LED wall displays and facial recognition features, utilizing technologies like React, Tensorflow, and OpenCV.
+- Skilled in managing and supervising teams, overseeing projects for high-profile clients such as Nestlé, MILO, and Krungthai Bank.
+- Proficient in implementing CI/CD pipelines, developing internal tools, and ensuring code quality through rigorous testing and review processes.
+- Committed to continuous learning and professional growth, with a dedication to staying updated on new technologies and their applications in targeted advertising.
+- Based in Bangkok, Thailand, with a passion for contributing to impactful projects and driving innovation in the tech industry.
 
 ## Professional Experience:
 
+### **Senior Full-Stack Software Engineer, EPAM (Bangkok, Thailand)**
+
+Dec 2023 - Present
+
+- Develop internal tools and platforms that allow businesses to easily get insights on environmental impacts before evaluating business decisions.
+- Collaborate with frontend, backend, and design team to develop user interfaces for the internal tools and platforms using React.js, TypeScript, JOY UI, Figma.
+- Code review changes and design plans.
+- Planning and orchestrating development timeline for internal projects.
+- Collaborating with legal teams to align the development processes according to the EU and the UK laws.
+
 ### **Senior Full-Stack Software Developer, Ogilvy (Bangkok, Thailand)**
 
-April 2022 — Present
+Apr 2022 — Nov 2023
 
 - Developed interactive LED wall display software and front-end using React, TailwindCSS, react-spring, Swiper.js, and WeatherAPI.
 - Developed facial recognition features using Tensorflow through Face API, and created Ogilvy's targeted advertisement object recognition software using OpenCV to perform frame differencing techniques (computer vision).
