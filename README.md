@@ -2,7 +2,7 @@
 
 ## Contact Information
 
-- **Location:** Bangkok, Thailand
+- **Location:** Thailand
 - **Phone:** (+66) 93-124-2007
 - **Email:** poom.pengcharoen@gmail.com
 
@@ -15,7 +15,7 @@
 - Skilled in managing and supervising teams, overseeing projects for high-profile clients such as Nestlé, MILO, and Krungthai Bank.
 - Proficient in implementing CI/CD pipelines, developing internal tools, and ensuring code quality through rigorous testing and review processes.
 - Committed to continuous learning and professional growth, with a dedication to staying updated on new technologies and their applications in targeted advertising.
-- Based in Bangkok, Thailand, with a passion for contributing to impactful projects and driving innovation in the tech industry.
+- Based in Thailand, with a passion for contributing to impactful projects and driving innovation in the tech industry.
 
 ## Professional Experience:
 
