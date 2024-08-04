@@ -32,10 +32,6 @@ Welcome to my GitHub profile! I'm a passionate web developer and software engine
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Poom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=poompengcharoen&show_icons=true&theme=radical)
-
 ## 📫 Contact
 
 Feel free to reach out to me!
