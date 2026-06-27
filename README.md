@@ -1,8 +1,8 @@
 # Hi, I'm Poom! 👋
 
-🚀 **Senior Frontend Developer at Inspekt AI** | **Full-Stack Developer** | **Tech Enthusiast**
+🚀 **Senior Frontend Developer at BTS Business Consulting** | **Software Developer** | **Tech Enthusiast**
 
-I'm a **Senior Full-Stack Developer** with **8+ years** of experience designing scalable web applications and leading teams to deliver impactful solutions. Skilled in leveraging modern technologies to solve complex challenges and enhance user experiences.
+I'm a **Senior Software Developer** with **8+ years** of experience designing scalable web applications and leading teams to deliver impactful solutions. Skilled in leveraging modern technologies to solve complex challenges and enhance user experiences.
 
 ## 🔧 Tech Stack & Tools
 - **Frontend:** JavaScript,TypeScript, Next.js, React, Vue.js, TailwindCSS, MUI
